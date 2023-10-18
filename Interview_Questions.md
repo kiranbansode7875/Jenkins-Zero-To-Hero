@@ -23,6 +23,7 @@ Q: What are the different ways to trigger jenkins pipelines ?
 
 A: This can be done in multiple ways,
    To briefly explain about the different options,
+   
    we use webhook
    ```
      - Poll SCM: Jenkins can periodically check the repository for changes and automatically build if changes are detected. 
